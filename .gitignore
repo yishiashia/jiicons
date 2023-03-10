@@ -1,0 +1,14 @@
+# Node.js related files
+node_modules/
+npm-debug.log*
+
+# Gulp generated files
+dist/
+tmp/
+input/
+output/
+src/icons/
+.cache/
+
+.DS_Store
+
