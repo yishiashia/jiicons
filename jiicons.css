@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "JIIcons";
+	src: url('./fonts/JIIcons.eot');
+	src: url('./fonts/JIIcons.eot?#iefix') format('eot'),
+		url('./fonts/JIIcons.woff2') format('woff2'),
+		url('./fonts/JIIcons.woff') format('woff'),
+		url('./fonts/JIIcons.ttf') format('truetype'),
+		url('./fonts/JIIcons.svg#JIIcons') format('svg');
+}
+
+.ji-icon:before {
+	font-family: "JIIcons";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+  content: "\E001";
+}
+
+
+.ji-jii-logo:before {
+	content: "\E001";
+}
+
+.ji-select-text:before {
+	content: "\E002";
+}
