@@ -1,7 +1,7 @@
 # JIIcons
 
 [![npm](https://img.shields.io/npm/v/jiicons)](https://www.npmjs.com/package/jiicons)
-[![GitHub license](https://img.shields.io/github/license/yishiashia/jiicons)](https://github.com/yishiashia/jiicons/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT%20%2B%20OFL--1.1-blue)](https://github.com/yishiashia/jiicons/blob/master/LICENSE)
 
 ## Introduction
 
@@ -9,10 +9,10 @@ JIIcons is a collection of icons designed by Taiwan's tech community, aimed at f
 
 ## Usage
 
-To use JIIcons, simply install the package and include the font files in your project:
+To use JIIcons, simply install the package from CDN and include it into your web page:
 
-```shell
-npm install jiicons
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jiicons@0.1.1/jiicons.css">
 ```
 
 Once installed, you can use the icons in your project like this:
@@ -26,7 +26,7 @@ The JIIcons font is licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL), wh
 
 The JIIcons CSS, LESS, and SASS files are licensed under the MIT License, which allows the software to be used, copied, modified, merged, published, distributed, sublicensed, and/or sold with any software, subject to certain conditions.
 
-For more information, please see the [LICENSE](LICENSE) file.
+For more information, please see the [LICENSE](https://github.com/yishiashia/jiicons/blob/master/LICENSE) file.
 
 ## Contributing
 If you'd like to contribute to JIIcons, please read the contributing guidelines before submitting a pull request.
