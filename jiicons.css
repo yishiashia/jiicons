@@ -53,3 +53,43 @@
 .ji-up-left-arrow-in-square:before {
 	content: "\E008";
 }
+
+.ji-check:before {
+	content: "\E009";
+}
+
+.ji-close:before {
+	content: "\E00A";
+}
+
+.ji-arrow-up:before {
+	content: "\E00B";
+}
+
+.ji-arrow-right:before {
+	content: "\E00C";
+}
+
+.ji-arrow-down:before {
+	content: "\E00D";
+}
+
+.ji-arrow-left:before {
+	content: "\E00E";
+}
+
+.ji-chevron-up:before {
+	content: "\E00F";
+}
+
+.ji-chevron-right:before {
+	content: "\E010";
+}
+
+.ji-chevron-down:before {
+	content: "\E011";
+}
+
+.ji-chevron-left:before {
+	content: "\E012";
+}
